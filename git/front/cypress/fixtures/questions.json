@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "What is your favorite color?",
+    "options": "[\"Red\", \"Blue\", \"Green\"]"
+  },
+  {
+    "id": 2,
+    "question": "What is your favorite animal?",
+    "options": "[\"Dog\", \"Cat\", \"Bird\"]"
+  }]
+
